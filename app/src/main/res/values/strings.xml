@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SundaFoodApp</string>
+    <string name="food_detail">Food Detail</string>
+    <string name="about">About</string>
+    <string name="about_name">Ipan Taupik Rahman</string>
+    <string name="about_email">ipantaupik97@gmail.com</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="main_title">Sundanese Food</string>
+</resources>
